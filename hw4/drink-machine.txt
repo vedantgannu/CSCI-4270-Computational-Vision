@@ -1,0 +1,30 @@
+Testing hw4_data\drink-machine\image1.JPG and hw4_data\drink-machine\image2.JPG
+Number of Matches:  309
+Fraction of keypoints in image1 with matches:  0.08607242339832868
+Fraction of keypoints in image2 with matches:  0.06556333545512412
+Number of inliers from Fundamental Matrix estimation:  195
+Percentage of inlier matches:  63.10679611650486
+Number of inliers from Homography estimation: 149
+Percentage of inlier matches: 76.41025641025641
+Creating mosaic: image1_image2.JPG
+
+Testing hw4_data\drink-machine\image1.JPG and hw4_data\drink-machine\image3.JPG
+Number of Matches:  118
+Fraction of keypoints in image1 with matches:  0.03286908077994429
+Fraction of keypoints in image2 with matches:  0.03200433957146732
+Number of inliers from Fundamental Matrix estimation:  19
+Percentage of inlier matches:  16.101694915254235
+Number of inliers from Homography estimation: 12
+Percentage of inlier matches: 63.1578947368421
+Percentage of inlier matches too low. Not the same. Moving to next image pair
+
+Testing hw4_data\drink-machine\image2.JPG and hw4_data\drink-machine\image3.JPG
+Number of Matches:  364
+Fraction of keypoints in image1 with matches:  0.07723318480797793
+Fraction of keypoints in image2 with matches:  0.09872525088147545
+Number of inliers from Fundamental Matrix estimation:  219
+Percentage of inlier matches:  60.16483516483516
+Number of inliers from Homography estimation: 149
+Percentage of inlier matches: 68.0365296803653
+Percentage of inlier matches too low. Not the same. Moving to next image pair
+

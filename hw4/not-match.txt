@@ -1,0 +1,66 @@
+Testing hw4_data\not-match\drink-machine-image2.JPG and hw4_data\not-match\frear-parkimage2.JPG
+Number of Matches:  66
+Fraction of keypoints in image1 with matches:  0.014003819223424571
+Fraction of keypoints in image2 with matches:  0.07647740440324449
+Not enough matches. Moving to next image pair
+
+Testing hw4_data\not-match\drink-machine-image2.JPG and hw4_data\not-match\office-IMG2537.JPG
+Number of Matches:  202
+Fraction of keypoints in image1 with matches:  0.0428601739868449
+Fraction of keypoints in image2 with matches:  0.33060556464811786
+Number of inliers from Fundamental Matrix estimation:  38
+Percentage of inlier matches:  18.81188118811881
+Number of inliers from Homography estimation: 14
+Percentage of inlier matches: 36.84210526315789
+Percentage of inlier matches too low. Not the same. Moving to next image pair
+
+Testing hw4_data\not-match\drink-machine-image2.JPG and hw4_data\not-match\tree-mrc.JPG
+Number of Matches:  71
+Fraction of keypoints in image1 with matches:  0.015064714619138553
+Fraction of keypoints in image2 with matches:  0.010343822843822844
+Not enough matches. Moving to next image pair
+
+Testing hw4_data\not-match\drink-machine-image2.JPG and hw4_data\not-match\vcc-entrance-image3.JPG
+Number of Matches:  132
+Fraction of keypoints in image1 with matches:  0.028007638446849142
+Fraction of keypoints in image2 with matches:  0.26883910386965376
+Number of inliers from Fundamental Matrix estimation:  16
+Percentage of inlier matches:  12.121212121212121
+Percentage of inlier matches too low. Not the same. Moving to next image pair
+
+Testing hw4_data\not-match\frear-parkimage2.JPG and hw4_data\not-match\office-IMG2537.JPG
+Number of Matches:  8
+Fraction of keypoints in image1 with matches:  0.009269988412514484
+Fraction of keypoints in image2 with matches:  0.01309328968903437
+Not enough matches. Moving to next image pair
+
+Testing hw4_data\not-match\frear-parkimage2.JPG and hw4_data\not-match\tree-mrc.JPG
+Number of Matches:  2
+Fraction of keypoints in image1 with matches:  0.002317497103128621
+Fraction of keypoints in image2 with matches:  0.0002913752913752914
+Not enough matches. Moving to next image pair
+
+Testing hw4_data\not-match\frear-parkimage2.JPG and hw4_data\not-match\vcc-entrance-image3.JPG
+Number of Matches:  8
+Fraction of keypoints in image1 with matches:  0.009269988412514484
+Fraction of keypoints in image2 with matches:  0.016293279022403257
+Not enough matches. Moving to next image pair
+
+Testing hw4_data\not-match\office-IMG2537.JPG and hw4_data\not-match\tree-mrc.JPG
+Number of Matches:  45
+Fraction of keypoints in image1 with matches:  0.07364975450081833
+Fraction of keypoints in image2 with matches:  0.006555944055944056
+Not enough matches. Moving to next image pair
+
+Testing hw4_data\not-match\office-IMG2537.JPG and hw4_data\not-match\vcc-entrance-image3.JPG
+Number of Matches:  30
+Fraction of keypoints in image1 with matches:  0.049099836333878884
+Fraction of keypoints in image2 with matches:  0.06109979633401222
+Not enough matches. Moving to next image pair
+
+Testing hw4_data\not-match\tree-mrc.JPG and hw4_data\not-match\vcc-entrance-image3.JPG
+Number of Matches:  88
+Fraction of keypoints in image1 with matches:  0.01282051282051282
+Fraction of keypoints in image2 with matches:  0.17922606924643583
+Not enough matches. Moving to next image pair
+

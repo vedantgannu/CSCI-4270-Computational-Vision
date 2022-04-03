@@ -1,0 +1,21 @@
+
+Points on seam 0:
+horizontal
+276, 0
+264, 90
+292, 179
+Energy of seam 0: 32.04
+
+Points on seam 1:
+horizontal
+292, 0
+296, 90
+292, 179
+Energy of seam 1: 35.20
+
+Points on seam 119:
+horizontal
+117, 0
+151, 90
+168, 179
+Energy of seam 119: 116.63

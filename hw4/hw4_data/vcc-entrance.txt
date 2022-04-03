@@ -1,0 +1,30 @@
+Testing hw4_data\vcc-entrance\image1.JPG and hw4_data\vcc-entrance\image2.JPG
+Number of Matches:  965
+Fraction of keypoints in image1 with matches:  0.4130993150684932
+Fraction of keypoints in image2 with matches:  0.2166105499438833
+Number of inliers from Fundamental Matrix estimation:  902
+Percentage of inlier matches:  93.47150259067357
+Number of inliers from Homography estimation: 641
+Percentage of inlier matches: 71.06430155210643
+Creating mosaic: image1_image2.JPG
+
+Testing hw4_data\vcc-entrance\image1.JPG and hw4_data\vcc-entrance\image3.JPG
+Number of Matches:  125
+Fraction of keypoints in image1 with matches:  0.05351027397260274
+Fraction of keypoints in image2 with matches:  0.2545824847250509
+Number of inliers from Fundamental Matrix estimation:  40
+Percentage of inlier matches:  32.0
+Number of inliers from Homography estimation: 30
+Percentage of inlier matches: 75.0
+Creating mosaic: image1_image3.JPG
+
+Testing hw4_data\vcc-entrance\image2.JPG and hw4_data\vcc-entrance\image3.JPG
+Number of Matches:  202
+Fraction of keypoints in image1 with matches:  0.045342312008978675
+Fraction of keypoints in image2 with matches:  0.41140529531568226
+Number of inliers from Fundamental Matrix estimation:  90
+Percentage of inlier matches:  44.554455445544555
+Number of inliers from Homography estimation: 86
+Percentage of inlier matches: 95.55555555555556
+Creating mosaic: image2_image3.JPG
+

@@ -1,0 +1,7 @@
+Nearest distances
+First region: 20.281 21.207 22.185
+Last region: 6.762 6.497 6.520
+central_park.jpg to skyline.jpg: 21.65
+hop.jpg to times_square.jpg: 24.17
+skyline.jpg to central_park.jpg: 21.65
+times_square.jpg to hop.jpg: 24.17

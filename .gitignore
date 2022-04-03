@@ -1,0 +1,6 @@
+hw5/train/
+hw5/valid/
+hw5/test/
+hw5/data.zip
+*.pth
+*.pkl

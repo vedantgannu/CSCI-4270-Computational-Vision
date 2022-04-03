@@ -1,0 +1,21 @@
+
+Points on seam 0:
+vertical
+0, 473
+199, 491
+398, 503
+Energy of seam 0: 17.85
+
+Points on seam 1:
+vertical
+0, 468
+199, 392
+398, 348
+Energy of seam 1: 18.68
+
+Points on seam 200:
+vertical
+0, 384
+199, 397
+398, 305
+Energy of seam 200: 32.57

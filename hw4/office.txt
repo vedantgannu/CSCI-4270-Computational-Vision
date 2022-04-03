@@ -1,0 +1,30 @@
+Testing hw4_data\office\IMG2536.JPG and hw4_data\office\IMG2537.JPG
+Number of Matches:  258
+Fraction of keypoints in image1 with matches:  0.37774524158125916
+Fraction of keypoints in image2 with matches:  0.42225859247135844
+Number of inliers from Fundamental Matrix estimation:  233
+Percentage of inlier matches:  90.31007751937985
+Number of inliers from Homography estimation: 231
+Percentage of inlier matches: 99.14163090128756
+Creating mosaic: IMG2536_IMG2537.JPG
+
+Testing hw4_data\office\IMG2536.JPG and hw4_data\office\IMG2538.JPG
+Number of Matches:  151
+Fraction of keypoints in image1 with matches:  0.22108345534407028
+Fraction of keypoints in image2 with matches:  0.20053120849933598
+Number of inliers from Fundamental Matrix estimation:  99
+Percentage of inlier matches:  65.56291390728477
+Number of inliers from Homography estimation: 84
+Percentage of inlier matches: 84.84848484848484
+Creating mosaic: IMG2536_IMG2538.JPG
+
+Testing hw4_data\office\IMG2537.JPG and hw4_data\office\IMG2538.JPG
+Number of Matches:  121
+Fraction of keypoints in image1 with matches:  0.19803600654664485
+Fraction of keypoints in image2 with matches:  0.16069057104913678
+Number of inliers from Fundamental Matrix estimation:  89
+Percentage of inlier matches:  73.55371900826447
+Number of inliers from Homography estimation: 66
+Percentage of inlier matches: 74.15730337078652
+Creating mosaic: IMG2537_IMG2538.JPG
+

@@ -1,0 +1,60 @@
+Testing hw4_data\tree_mrc\image1.JPG and hw4_data\tree_mrc\image2.JPG
+Number of Matches:  1621
+Fraction of keypoints in image1 with matches:  0.23615967365967366
+Fraction of keypoints in image2 with matches:  0.22232889864216157
+Number of inliers from Fundamental Matrix estimation:  1586
+Percentage of inlier matches:  97.84083898827885
+Number of inliers from Homography estimation: 1584
+Percentage of inlier matches: 99.87389659520807
+Creating mosaic: image1_image2.JPG
+
+Testing hw4_data\tree_mrc\image1.JPG and hw4_data\tree_mrc\image3.JPG
+Number of Matches:  503
+Fraction of keypoints in image1 with matches:  0.07328088578088578
+Fraction of keypoints in image2 with matches:  0.08384730788464743
+Number of inliers from Fundamental Matrix estimation:  454
+Percentage of inlier matches:  90.25844930417495
+Number of inliers from Homography estimation: 359
+Percentage of inlier matches: 79.07488986784142
+Creating mosaic: image1_image3.JPG
+
+Testing hw4_data\tree_mrc\image1.JPG and hw4_data\tree_mrc\image4.JPG
+Number of Matches:  110
+Fraction of keypoints in image1 with matches:  0.016025641025641024
+Fraction of keypoints in image2 with matches:  0.020135456708768075
+Number of inliers from Fundamental Matrix estimation:  53
+Percentage of inlier matches:  48.18181818181818
+Number of inliers from Homography estimation: 48
+Percentage of inlier matches: 90.56603773584906
+Creating mosaic: image1_image4.JPG
+
+Testing hw4_data\tree_mrc\image2.JPG and hw4_data\tree_mrc\image3.JPG
+Number of Matches:  1295
+Fraction of keypoints in image1 with matches:  0.17761623919901248
+Fraction of keypoints in image2 with matches:  0.21586931155192532
+Number of inliers from Fundamental Matrix estimation:  1171
+Percentage of inlier matches:  90.42471042471043
+Number of inliers from Homography estimation: 1144
+Percentage of inlier matches: 97.69427839453458
+Creating mosaic: image2_image3.JPG
+
+Testing hw4_data\tree_mrc\image2.JPG and hw4_data\tree_mrc\image4.JPG
+Number of Matches:  309
+Fraction of keypoints in image1 with matches:  0.042381017693046225
+Fraction of keypoints in image2 with matches:  0.05656232839099396
+Number of inliers from Fundamental Matrix estimation:  202
+Percentage of inlier matches:  65.37216828478964
+Number of inliers from Homography estimation: 198
+Percentage of inlier matches: 98.01980198019803
+Creating mosaic: image2_image4.JPG
+
+Testing hw4_data\tree_mrc\image3.JPG and hw4_data\tree_mrc\image4.JPG
+Number of Matches:  730
+Fraction of keypoints in image1 with matches:  0.12168694782463745
+Fraction of keypoints in image2 with matches:  0.1336262127036427
+Number of inliers from Fundamental Matrix estimation:  613
+Percentage of inlier matches:  83.97260273972603
+Number of inliers from Homography estimation: 599
+Percentage of inlier matches: 97.71615008156607
+Creating mosaic: image3_image4.JPG
+

@@ -1,0 +1,10 @@
+Testing hw4_data\frear-park\image1.JPG and hw4_data\frear-park\image2.JPG
+Number of Matches:  152
+Fraction of keypoints in image1 with matches:  0.2275449101796407
+Fraction of keypoints in image2 with matches:  0.1761297798377752
+Number of inliers from Fundamental Matrix estimation:  147
+Percentage of inlier matches:  96.71052631578947
+Number of inliers from Homography estimation: 126
+Percentage of inlier matches: 85.71428571428571
+Creating mosaic: image1_image2.JPG
+

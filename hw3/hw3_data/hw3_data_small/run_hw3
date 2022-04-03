@@ -1,0 +1,11 @@
+python p1_seam_carve.py whistler.jpg > p1_whistler_out.txt
+python p1_seam_carve.py autumn.jpg > p1_autumn_out.txt
+python p1_seam_carve.py castle.jpg > p1_castle_out.txt
+cp p1*out.txt submitty/test_output/
+
+python p2_edge.py 1.0 disk.png > p2_disk_out.txt
+python p2_edge.py 1.5 tree_sky.jpg > p2_tree_sky_out.txt
+cp p2*out.txt submitty/test_output/
+
+rm -f hw3_data.zip
+zip hw3_data.zip autumn*.jpg whistler*.jpg castle*.jpg tree_sky*.jpg disk*.png p1*out.txt p2_disk_out.txt p2_tree_sky_out.txt run_hw3

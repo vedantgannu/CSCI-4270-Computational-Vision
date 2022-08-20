@@ -21,3 +21,9 @@
 ### HW5: 
 #### ---SVM and Overlapping Histograms for Descriptor Formation for Image Classification, 
 #### ---Neural Networks and Convolutional Neural Networks for Image Classification
+
+### HW6:
+#### ---Object Detection and Bounding Box Regression using Convolutional Neural Network
+
+### HW7:
+#### ---Optical Flow Tracking
